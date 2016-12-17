@@ -23,6 +23,10 @@ recorder.addCallback(new AudioPlayer(format));
 recorder.start();
 ```
 
+### Download & Installation
+
+Download the latest jar file [here](https://github.com/int32at/java-sound/releases/).
+
 ### Audio Format
 - Framesize: the size of the frame which should be recorded. Will be used for buffer calculations.
 - Sample Rate: the sample rate (in Hz) which is supported by the soundcard
